@@ -1,0 +1,7 @@
+
+    @media print { 
+        #botaoData { display:none; } 
+        #botaoImprimir { display:none; } 
+        #footer { display:none; } 
+        body { background: #fff; }
+    }

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - segurancaBlog@localhost" uuid="3ed6dc35-28da-45b5-a7aa-b05e12b7148b">
+      <database-info product="PostgreSQL" version="9.4.4" jdbc-version="4.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.4.1212">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>postgres</user-name>
+      <introspection-scope>segurancaBlog:pg_catalog,postgres,public</introspection-scope>
+      <resolve-scope>segurancaBlog:postgres,public</resolve-scope>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="alissonBlogSeguranca:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/alissonBlogSeguranca_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="alissonBlogSeguranca/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="alissonBlogSeguranca" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Hibernate 5.2.10-5.2.10" />
+          <element id="library" level="project" name="Spring-4.3.9.RELEASE" />
+          <element id="library" level="project" name="Spring MVC-4.3.9.RELEASE" />
+          <element id="library" level="project" name="org.postgresql:postgresql:9.4.1212.jre7" />
+          <element id="library" level="project" name="javax.servlet:jsp-api:2.0" />
+          <element id="library" level="project" name="javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="javax.servlet:javax.servlet-api:3.1-b02" />
+          <element id="library" level="project" name="org.apache.commons:commons-dbcp2:2.0" />
+          <element id="library" level="project" name="commons-codec:commons-codec:1.10" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

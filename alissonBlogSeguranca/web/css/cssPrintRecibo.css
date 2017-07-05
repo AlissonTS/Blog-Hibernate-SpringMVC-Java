@@ -1,0 +1,7 @@
+
+    @media print {
+        #mensagem { display:none; } 
+        #botaoImprimir { display:none; } 
+        #footer { display:none; } 
+        body { background: #fff; }
+    }
